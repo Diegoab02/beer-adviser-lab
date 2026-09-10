@@ -67,4 +67,3 @@ Aplica el mismo patrón a un catálogo de servicios de un aula virtual.
 2. `git branch -M main`.
 3. `git remote add origin https://github.com/<usuario>/<repositorio>.git`.
 4. `git push -u origin main`.
-5. Publicar la URL del repositorio en Moodle.
